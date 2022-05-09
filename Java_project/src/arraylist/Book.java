@@ -1,13 +1,13 @@
-package array;
+package arraylist;
 
-public class Book_array {
+public class Book {
 	
 	private String bookName;
 	private String author;
 	
-	public Book_array() {}
+	public Book() {}
 
-	public Book_array(String bookName, String author) {
+	public Book(String bookName, String author) {
 		super();
 		this.bookName = bookName;
 		this.author = author;
